@@ -1,4 +1,4 @@
 # happymac3920.github.io (my "barebones" website)
-Created by:
+404 page created by:
 - Me (HappyMac3920)
 - "My son" Alex
